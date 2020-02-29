@@ -1,4 +1,4 @@
-# KOBID - kwola-open-bug-identification-dataset
+# KOBID - Kwola Open Bug Identification Dataset
 
 This repository contains code for pulling, managing, and interacting with the KOBID dataset.
 
