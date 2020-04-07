@@ -4,7 +4,7 @@
             "id": 1,
             "name": "restaraunt-backend",
             "title": "Restaraunt Backend",
-            "repository": "https://github.com/Kwola/kobid-1-restaraunt-backend",
+            "repository": "https://github.com/Kwola/kros-1-restaraunt-backend",
             "frontend": "web",
             "backend": "node",
             "history": "template",
